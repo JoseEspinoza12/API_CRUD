@@ -1,0 +1,6 @@
+@prjAPI4_HostAddress = http://localhost:5199
+
+GET {{prjAPI4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
